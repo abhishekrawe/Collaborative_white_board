@@ -25,7 +25,7 @@
 ```
 
 - Now, Open the folder in Visual Studio Code (or Text Editor). Then open the terminal and split that terminal into two parts as shown below:
-![Terminal-Splitting](preview/terminal.gif)
+  ![Terminal-Splitting](preview/terminal.gif)
 - On 1st Terminal, Change the directory to **ui/whiteboard-collab**
 
 ```bash
@@ -102,6 +102,8 @@
 - In **_container.jsx_** file we have the board components. We have server side NodeJS code were we develop socket.io connection for communication between two clients.
 
 - If any user will draw something on board all the changes will be reflected to all connected user in real time. We are syncing canvas image data across all connected user using web socket protocol.
+
+![white](preview/white.gif)
 
 ## TODO: Future commits
 
