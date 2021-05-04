@@ -2,6 +2,11 @@
 
 - When you want to describes somethings to your friends or collegues or try to make diagram or structure understand using a diagram **_Collaborative white board_** is the best way to do so.
 
+## DEMO
+
+- To draw a line, click the `whiteboard` and move the mouse cursor in the whiteboard.
+- To change line width and line color, `select choices` on upper side.
+
 ## Functionalities:
 
 - Changing brush color.
@@ -106,5 +111,7 @@
 ![white](preview/white.gif)
 
 ## TODO: Future commits
+
+> i will improve by paste an image on the whiteboard, type an URL of the image in the text box and press the paste button.
 
 > I will be implementing the screen sharing idea with the help of javascript.
