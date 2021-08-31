@@ -9,8 +9,8 @@
 
 ## Functionalities:
 
-- Changing brush color.
-- Changing brush size.
+- Changing brush in different color.
+- Changing brush in different size.
 - Also allow multiple user to interact read & write along.
 
 ![Demo-Gif](preview/demo-video.gif)
